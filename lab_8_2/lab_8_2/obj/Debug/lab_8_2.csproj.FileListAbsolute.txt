@@ -1,0 +1,10 @@
+E:\Desktop\work-space\vs studio\lab8\lab_8_2\lab_8_2\bin\Debug\lab_8_2.exe.config
+E:\Desktop\work-space\vs studio\lab8\lab_8_2\lab_8_2\bin\Debug\lab_8_2.exe
+E:\Desktop\work-space\vs studio\lab8\lab_8_2\lab_8_2\bin\Debug\lab_8_2.pdb
+E:\Desktop\work-space\vs studio\lab8\lab_8_2\lab_8_2\obj\Debug\lab_8_2.csproj.AssemblyReference.cache
+E:\Desktop\work-space\vs studio\lab8\lab_8_2\lab_8_2\obj\Debug\lab_8_2.Form1.resources
+E:\Desktop\work-space\vs studio\lab8\lab_8_2\lab_8_2\obj\Debug\lab_8_2.Properties.Resources.resources
+E:\Desktop\work-space\vs studio\lab8\lab_8_2\lab_8_2\obj\Debug\lab_8_2.csproj.GenerateResource.cache
+E:\Desktop\work-space\vs studio\lab8\lab_8_2\lab_8_2\obj\Debug\lab_8_2.csproj.CoreCompileInputs.cache
+E:\Desktop\work-space\vs studio\lab8\lab_8_2\lab_8_2\obj\Debug\lab_8_2.exe
+E:\Desktop\work-space\vs studio\lab8\lab_8_2\lab_8_2\obj\Debug\lab_8_2.pdb
