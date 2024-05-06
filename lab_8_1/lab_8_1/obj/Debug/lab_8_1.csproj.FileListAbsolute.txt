@@ -8,3 +8,13 @@ E:\Desktop\work-space\vs studio\lab_8_1\lab_8_1\obj\Debug\lab_8_1.csproj.Generat
 E:\Desktop\work-space\vs studio\lab_8_1\lab_8_1\obj\Debug\lab_8_1.csproj.CoreCompileInputs.cache
 E:\Desktop\work-space\vs studio\lab_8_1\lab_8_1\obj\Debug\lab_8_1.exe
 E:\Desktop\work-space\vs studio\lab_8_1\lab_8_1\obj\Debug\lab_8_1.pdb
+E:\Desktop\work-space\vs studio\lab8\lab_8_1\lab_8_1\bin\Debug\lab_8_1.exe.config
+E:\Desktop\work-space\vs studio\lab8\lab_8_1\lab_8_1\bin\Debug\lab_8_1.exe
+E:\Desktop\work-space\vs studio\lab8\lab_8_1\lab_8_1\bin\Debug\lab_8_1.pdb
+E:\Desktop\work-space\vs studio\lab8\lab_8_1\lab_8_1\obj\Debug\lab_8_1.csproj.AssemblyReference.cache
+E:\Desktop\work-space\vs studio\lab8\lab_8_1\lab_8_1\obj\Debug\lab_8_1.Form1.resources
+E:\Desktop\work-space\vs studio\lab8\lab_8_1\lab_8_1\obj\Debug\lab_8_1.Properties.Resources.resources
+E:\Desktop\work-space\vs studio\lab8\lab_8_1\lab_8_1\obj\Debug\lab_8_1.csproj.GenerateResource.cache
+E:\Desktop\work-space\vs studio\lab8\lab_8_1\lab_8_1\obj\Debug\lab_8_1.csproj.CoreCompileInputs.cache
+E:\Desktop\work-space\vs studio\lab8\lab_8_1\lab_8_1\obj\Debug\lab_8_1.exe
+E:\Desktop\work-space\vs studio\lab8\lab_8_1\lab_8_1\obj\Debug\lab_8_1.pdb

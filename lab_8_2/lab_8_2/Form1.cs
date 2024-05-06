@@ -55,15 +55,7 @@ namespace lab_8_2
         }
         private int GetEventIndex(double[] probabilities, Random random)
         {
-            // Calculate the total probability,the sum of the probabilities of all events
-            double totalProbability = 0;
-            foreach (var probability in probabilities)
-            {
-                totalProbability += probability;
-            }
-
-            // Randomly generate a probability value
-            double randomValue = random.NextDouble() * totalProbability;
+            double randomValue = random.NextDouble();
 
             // Calculate event number
             int eventIndex = 0;
